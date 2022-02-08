@@ -7,8 +7,8 @@ This is my final project in Infrastructure Asset Management (a master degree cou
 - The data used in the model is the pavement of Montana.
 - The data used to validate the model is the pavement of IOWA 
 - By comparing the predicted pavement condition index (PCI) to the standard PCI rating scale, we can determine when the worst condition of the pavement will occur. 
-- So, by knowing the duration when the condition of road reaches the dangers zoon, they can schedule when they can apply maintenance.
-- Also, they can estimate the cost of the maintenance after determining the damage amount from the PCI Scale and preserve some budget for this event.
+- So, by knowing the duration when the condition of road reaches the dangers zoon, we can schedule when the maintenance can be applied.
+- Also, we can estimate the cost of the maintenance after determining the damage amount from the PCI Scale and preserve some budget for this event.
 
 ### Usage
 - Import the excel number 1 in each of index model.
